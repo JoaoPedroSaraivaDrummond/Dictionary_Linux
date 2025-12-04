@@ -1,45 +1,25 @@
 ls
 
-cd ou cd ..
+cd
 
-cd ../..
-
-cat
-
-vim
-
-clear
-
-ll
-
-ls -l
-
-who
-
-date
-
-exit
-
-head
-
-ps
+mkdir
 
 rm
 
+mv
+
+cp
+
 touch
 
-tail
+file
+
+cat
 
 more
 
 less
 
-grep
+wc
 
-kill
-
-top
-
-htop
-
-mkdir 
+sort 
