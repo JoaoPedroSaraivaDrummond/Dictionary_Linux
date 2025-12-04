@@ -12,6 +12,8 @@ clear
 
 ll
 
+ls -l
+
 who
 
 date
@@ -19,3 +21,25 @@ date
 exit
 
 head
+
+ps
+
+rm
+
+touch
+
+tail
+
+more
+
+less
+
+grep
+
+kill
+
+top
+
+htop
+
+mkdir 
