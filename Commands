@@ -1,0 +1,6 @@
+sudo apt-get update
+
+udo apt-get install zip unzip
+
+zip -r testando.zip /home/jpedro/testandoZ 
+
