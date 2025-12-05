@@ -1,0 +1,9 @@
+Kernel: É o núcleo do sistema operacional, é a primeira camada de software carregada na memória quando o computador inicia e atua como
+uma ponte ou intermediário entre hardware e software.
+
+
+Shell: É o programa que fornece uma interface para que o usuário ou algum programa possa se comunicar com o Kernel, assim, acessar os 
+serviços do sistema operacional. Quando abrimos o terminal e digitamos algum comando é um Shell que está interpretando esse comando,
+fazendo uma solicitação ao Kernel para ver algum tipo de dado, o Kernel então faz uma solicitação ao hardware e retorna uma
+informação.  
+

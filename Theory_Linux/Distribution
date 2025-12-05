@@ -1,0 +1,23 @@
+Uma distribuição Linux não é apenas o Kernel, mas sim um pacote completo e pronto para uso que inclui:
+
+
+1.O Kernel Linux: O núcleo fundamental que gerencia o hardware (a base do sistema).
+
+
+2.Ferramentas e Bibliotecas GNU: Um conjunto de programas e utilitários essenciais que tornam o Kernel utilizável,
+como ferramentas de linha de comando (ls, cp, mv, etc.), e as bibliotecas de sistema.
+
+
+3.Shell: O interpretador de comandos (geralmente o Bash ou outro shell de linha de comando).
+
+
+4.Sistema de Gerenciamento de Pacotes: Ferramentas que facilitam a instalação, atualização e remoção de software. 
+Exemplos: APT (usado no Debian e Ubuntu), YUM/DNF (usado no Fedora e Red Hat).
+
+
+5.Interface Gráfica do Usuário (GUI): O ambiente de trabalho visual (Desktop Environment) que atua como o Shell
+gráfico, permitindo que você interaja com janelas e ícones. Exemplos: GNOME, KDE, XFCE.
+
+
+6.Aplicativos Essenciais: Uma coleção de software padrão que acompanha o sistema para o uso diário
+(navegador web, suíte de escritório, player de mídia, etc.).
