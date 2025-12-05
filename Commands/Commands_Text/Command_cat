@@ -1,0 +1,6 @@
+
+
+
+cat /etc/passwd --> Para ver todos os usuarios do sistema.
+
+cat /etc/group  --> Para ver todos os grupos do sitema.
