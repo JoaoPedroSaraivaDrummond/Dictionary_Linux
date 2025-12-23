@@ -1,0 +1,9 @@
+cp --> É utilizado para copiar arquivos e diretórios, Ele cria uma duplicata exata do item original emum novo local ou com um novo nome.
+
+cp teste novoteste --> Copia o arquivo existemte e cola seu conteudo em um novo arquivo.
+
+cp teste /home/joao/Dictionary_Linux/ --> Copia o arquivo existente, cria um novo arquuivo e cola no local direcionado.
+
+cp teste novoteste /home/joao/Dictionary_Linux/ --> Copia os dois arquivos existentes e os cola no diretorio.
+
+cp -r Commands_Basic/ teste/ --> Copia um diretorio existente e cola em outra.  

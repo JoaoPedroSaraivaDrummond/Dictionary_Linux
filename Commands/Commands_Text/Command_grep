@@ -1,0 +1,15 @@
+grep ^m --> Mostra as linhas que começão com m.
+
+grep .m --> Mostra todas as linhas que tenham m.
+
+grep m$ --> Mostra todas as linhas que terminam com m.
+
+grep ^i -v --> Não mostra as linhas que começão com i.
+
+grep .* --> Vai mostar todas as linhas "Qualquer coisa".
+
+grep ^f.*b$ --> Vai mostar as linhas que começão com f e terminam com b, sem se importar com oque te no meio.
+
+grep ^[si] --> Faz uma lista com todas as linhas que começão com "s"  e "i". 
+
+grep [si]$ --> Faz uma lista com todas as linhas que terminam com "s" e "i". 

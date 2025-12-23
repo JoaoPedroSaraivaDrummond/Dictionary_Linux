@@ -1,0 +1,11 @@
+cat --> (abreviação de concatenate) Sua função principal é ler arquivos e exibir o conteúdo deles diretamente no terminal.
+
+cat teste > teste02 --> Copia o conteúdo da fonte para o destino, apagando o que havia antes no destino.
+
+cat teste >> teste02 --> Adiciona o conteúdo da fonte ao final do arquivo de destino, sem apagar o quejá existe.
+
+cat -n teste --> Adiciona números de linha em todas as linhas.
+
+cat -E teste --> Mostra um cifrão ($) ao final de cada linha.
+
+cat 

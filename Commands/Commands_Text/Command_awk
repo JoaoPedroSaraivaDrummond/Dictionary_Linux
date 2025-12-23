@@ -1,0 +1,1 @@
+awk '/i/' --> Mostra todas as linhas que contem i.

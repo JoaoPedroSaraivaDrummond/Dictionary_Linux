@@ -1,7 +1,5 @@
-
-
-
-
 ls
 
-ls -l --> Exibe as permissões. 
+ls -l --> Lista os diretórios.
+
+ll --> Lista todos os diretórios.

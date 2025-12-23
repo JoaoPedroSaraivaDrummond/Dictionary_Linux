@@ -1,0 +1,11 @@
+cd --> É a ferramenta principal para navegar entre as pastas (diretórios) do sistema.
+
+cd / --> Vai para a Raiz do sistema (o nível mais alto).
+
+cd ~ --> Vai direto para a sua Home (pasta do seu usuário).
+
+cd .. --> Sobe um nível (vai para a pasta pai da atual).
+
+cd - --> Volta para a pasta anterior onde você estava.
+
+cd ../.. --> é usado para subir dois níveis na hierarquia de pastas de uma só vez(vai para pasta pai do pai).
