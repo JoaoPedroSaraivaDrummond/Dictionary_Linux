@@ -1,0 +1,7 @@
+O comando “ps” do Linux é uma ferramenta poderosa para exibir informações sobre os processos em execução no sistema operacional.
+
+ps aux --> Lista todos os processos em execução.
+
+ps -p id --> Listar todos os processos em execução.
+
+ps axf --> Listar todos os processos em execução em formato de árvore. 

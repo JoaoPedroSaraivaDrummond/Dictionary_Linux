@@ -3,3 +3,5 @@ ls
 ls -l --> Lista os diretórios.
 
 ll --> Lista todos os diretórios.
+
+ls /lib/modules/3.13.0-170-generic/kernel/ --> Lista os modulos do Kernel.
